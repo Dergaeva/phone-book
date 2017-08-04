@@ -1,4 +1,4 @@
-const url = 'http://easycode-js.herokuapp.com/';
+const url = 'https://easycode-js.herokuapp.com/';
 const button = document.querySelector('button');
 const button2 = document.querySelector('.btn2');
 const app = document.querySelector('.app');
