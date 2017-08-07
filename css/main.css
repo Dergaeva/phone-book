@@ -116,6 +116,8 @@ th:hover, th:focus {
 
 .number .numbers {
   align-self: flex-end;
+  background: transparent;
+  border: 0;
 }
 
 .key {
